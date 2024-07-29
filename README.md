@@ -4,8 +4,8 @@
 
 **`Aspiring Developer`**
 
-👩🏻‍💻 Developer sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studied Diploma in Information Technology at Malaysia Vocational College, Miri, Sarawak<br/>
+✨ Aspiring developer that looking to gain more skills in tech and life <br/>
+👩🏻‍🎓 Studied Diploma in Information Technology at Malaysia Vocational College Miri, Sarawak<br/>
 🎨 Making hobby videos about music on [YouTube](https://www.youtube.com/@maljunkul)<br/>
 💭 Currently learning about Python Programming!<br/>
 
