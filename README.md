@@ -5,9 +5,10 @@
 **`Aspiring Developer`**
 
 ✨ Aspiring developer that looking to gain more skills in tech and life <br/>
-👩🏻‍🎓 Studied Diploma in Information Technology at Malaysia Vocational College Miri, Sarawak<br/>
+🚀 Eager to drive innovation and tackle new challenges. <br/>
+👩🏻‍🎓 Studied Diploma in IT from [Malaysia Vocational College Miri](https://www.facebook.com/KolejVokasionalMiri), Sarawak<br/>
 🎨 Making hobby videos about music on [YouTube](https://www.youtube.com/@maljunkul)<br/>
-💭 Currently learning about Python Programming!<br/>
+💭 Currently diving deeper about [Python Programming!](https://excelerate.asia/k-youth)<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=mxrky4&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -22,7 +23,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
@@ -33,10 +33,6 @@
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
 # 💻 Featured YouTube Videos
-<!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
-<!-- If you want to display the latest videos, then simply follow the instructions in the above repo. -->
-<!-- If you however want to select which videos display, then you can manually generate the video link by changing the below parameters in angle brackets. -->
-<!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>") -->
 <!-- BEGIN YOUTUBE-CARDS -->
 [![You are a true warrior.](https://ytcards.demolab.com/?id=x5VEjtoimpI&title=You+are+a+true+warrior.&lang=en&timestamp=1708530074&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "You are a true warrior.")](https://www.youtube.com/watch?v=x5VEjtoimpI)
 [![So, this is what peace feels like.](https://ytcards.demolab.com/?id=DiHBbPHcLOo&title=So%2C+this+is+what+peace+feels+like.&lang=en&timestamp=1699524009&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "So, this is what peace feels like.")](https://www.youtube.com/watch?v=DiHBbPHcLOo)
