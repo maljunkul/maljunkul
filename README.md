@@ -40,7 +40,7 @@
 [![you're getting stronger, I see.](https://ytcards.demolab.com/?id=cnCvTlGW3tA&title=you%27re+getting+stronger%2C+I+see.&lang=en&timestamp=1714470315&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "you're getting stronger, I see.")](https://www.youtube.com/watch?v=cnCvTlGW3tA)
 <!-- END YOUTUBE-CARDS -->
 
-## 📈 My GitHub stats
+# 📈 My GitHub stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=mxrky4&theme=great-gatsby&hide_border=true" alt="GitHub Streak" />
