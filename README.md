@@ -40,10 +40,34 @@
 [![you're getting stronger, I see.](https://ytcards.demolab.com/?id=cnCvTlGW3tA&title=you%27re+getting+stronger%2C+I+see.&lang=en&timestamp=1714470315&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "you're getting stronger, I see.")](https://www.youtube.com/watch?v=cnCvTlGW3tA)
 <!-- END YOUTUBE-CARDS -->
 
+<h3 align="center">Git Stats</h3>
+
+<div align="center">
+ 
+  <img src="https://streak-stats.demolab.com/?user=mxrky4&theme=great-gatsby&hide_border=true" alt="GitHub Streak" />
+  <br>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mxrky4&custom_title=Ryan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+<br>
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxrky4&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mxrky4&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mxrky4&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+    </td>
+  </tr>
+</table>
+
+</div>
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=mxrky4&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mxrky4&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mxrky4&theme=highcontrast&hide_border=true">
+
 
 
 
