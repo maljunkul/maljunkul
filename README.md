@@ -4,9 +4,9 @@
 
 **`Aspiring Developer`**
 
-✨ Aspiring developer that looking to gain more skills in tech and life <br/>
+✨ Aspiring developer that looking to <strong>gain more skills<strong/> in tech and life <br/>
 🚀 Eager to drive innovation and tackle new challenges. <br/>
-👩🏻‍🎓 Studied Diploma in IT from [Malaysia Vocational College Miri](https://www.facebook.com/KolejVokasionalMiri), Sarawak<br/>
+👩🏻‍🎓 Studied Diploma in IT from <strong>Malaysia Vocational College Miri<strong/>, Sarawak<br/>
 🎨 Making hobby videos about music on [YouTube](https://www.youtube.com/@maljunkul)<br/>
 💭 Currently diving deeper about [Python Programming!](https://excelerate.asia/k-youth)<br/>
 
