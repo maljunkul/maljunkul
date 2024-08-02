@@ -4,14 +4,14 @@
 
 **`Aspiring Developer`**
 
-✨ Aspiring developer that looking to <strong>gain more skills<strong/> in tech and life <br/>
+✨ Aspiring developer that looking to gain more skills in tech and life <br/>
 🚀 Eager to drive innovation and tackle new challenges. <br/>
-👩🏻‍🎓 Studied Diploma in IT from <strong>Malaysia Vocational College Miri<strong/>, Sarawak<br/>
+👩🏻‍🎓 Studied Diploma in IT from Malaysia Vocational College Miri, Sarawak<br/>
 🎨 Making hobby videos about music on [YouTube](https://www.youtube.com/@maljunkul)<br/>
 💭 Currently diving deeper about [Python Programming!](https://excelerate.asia/k-youth)<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=mxrky4&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=maljunkul&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 
 # 💻 Tech Stack:
@@ -43,22 +43,22 @@
 # 📈 My GitHub stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=mxrky4&theme=great-gatsby&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mxrky4&theme=highcontrast&hide_border=true">
+  <img src="https://streak-stats.demolab.com/?user=maljunkul&theme=great-gatsby&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maljunkul&theme=highcontrast&hide_border=true">
   <br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mxrky4&custom_title=Ryan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maljunkul&custom_title=Ryan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 <br>
 <div align="center">
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxrky4&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maljunkul&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mxrky4&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maljunkul&theme=highcontrast&hide_border=true" alt="Repos Per Language">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mxrky4&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maljunkul&theme=highcontrast&hide_border=true" alt="Most Commit Language">
     </td>
   </tr>
 </table>
