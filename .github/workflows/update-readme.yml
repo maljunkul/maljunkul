@@ -11,6 +11,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: maljunkul/github-activity-readme@master
+      - uses: maljunkul/maljunkul@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
