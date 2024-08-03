@@ -32,6 +32,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 # 💻 Favourite YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
 [![You are a true warrior.](https://ytcards.demolab.com/?id=x5VEjtoimpI&title=You+are+a+true+warrior.&lang=en&timestamp=1708530074&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "You are a true warrior.")](https://www.youtube.com/watch?v=x5VEjtoimpI)
