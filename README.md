@@ -32,8 +32,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 # 💻 Favourite YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
