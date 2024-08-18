@@ -39,6 +39,7 @@
 [![you're getting stronger, I see.](https://ytcards.demolab.com/?id=cnCvTlGW3tA&title=you%27re+getting+stronger%2C+I+see.&lang=en&timestamp=1714470315&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "you're getting stronger, I see.")](https://www.youtube.com/watch?v=cnCvTlGW3tA)
 [![You are a true warrior.](https://ytcards.demolab.com/?id=x5VEjtoimpI&title=You+are+a+true+warrior.&lang=en&timestamp=1708530074&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "You are a true warrior.")](https://www.youtube.com/watch?v=x5VEjtoimpI)
 [![So, this is what peace feels like.](https://ytcards.demolab.com/?id=DiHBbPHcLOo&title=So%2C+this+is+what+peace+feels+like.&lang=en&timestamp=1699524009&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "So, this is what peace feels like.")](https://www.youtube.com/watch?v=DiHBbPHcLOo)
+[![I have a teacher.](https://ytcards.demolab.com/?id=jUOZ_-nX_hc&title=I+have+a+teacher.&lang=en&timestamp=1723971240&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I have a teacher.")](https://www.youtube.com/watch?v=jUOZ_-nX_hc)
 <!-- END YOUTUBE-CARDS -->
 
 # 📈 My GitHub stats
