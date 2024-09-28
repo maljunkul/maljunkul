@@ -39,6 +39,7 @@
 [![you're getting stronger, I see.](https://ytcards.demolab.com/?id=cnCvTlGW3tA&title=you%27re+getting+stronger%2C+I+see.&lang=en&timestamp=1714470315&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "you're getting stronger, I see.")](https://www.youtube.com/watch?v=cnCvTlGW3tA)
 [![You are a true warrior.](https://ytcards.demolab.com/?id=x5VEjtoimpI&title=You+are+a+true+warrior.&lang=en&timestamp=1708530074&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "You are a true warrior.")](https://www.youtube.com/watch?v=x5VEjtoimpI)
 [![I have a teacher....](https://ytcards.demolab.com/?id=jUOZ_-nX_hc&title=I+have+a+teacher....&lang=en&timestamp=1723971240&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I have a teacher....")](https://www.youtube.com/watch?v=jUOZ_-nX_hc)
+[![you’ve reached an internet checkpoint, i want you to…](https://ytcards.demolab.com/?id=23ioqytlD9U&title=you%E2%80%99ve+reached+an+internet+checkpoint%2C+i+want+you+to%E2%80%A6&lang=en&timestamp=1727550209&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "you’ve reached an internet checkpoint, i want you to…")](https://www.youtube.com/watch?v=23ioqytlD9U)
 <!-- END YOUTUBE-CARDS -->
 
 # 📈 My GitHub stats
