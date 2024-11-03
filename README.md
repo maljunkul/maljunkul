@@ -40,6 +40,7 @@
 [![You are a true warrior.](https://ytcards.demolab.com/?id=x5VEjtoimpI&title=You+are+a+true+warrior.&lang=en&timestamp=1708530074&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "You are a true warrior.")](https://www.youtube.com/watch?v=x5VEjtoimpI)
 [![you’ve reached an internet checkpoint, i want you to…](https://ytcards.demolab.com/?id=23ioqytlD9U&title=you%E2%80%99ve+reached+an+internet+checkpoint%2C+i+want+you+to%E2%80%A6&lang=en&timestamp=1727550209&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "you’ve reached an internet checkpoint, i want you to…")](https://www.youtube.com/watch?v=23ioqytlD9U)
 [![I have a teacher....](https://ytcards.demolab.com/?id=jUOZ_-nX_hc&title=I+have+a+teacher....&lang=en&timestamp=1723971240&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I have a teacher....")](https://www.youtube.com/watch?v=jUOZ_-nX_hc)
+[![So, this is what peace feels like.](https://ytcards.demolab.com/?id=LXBnRtMARkg&title=So%2C+this+is+what+peace+feels+like.&lang=en&timestamp=1730659344&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "So, this is what peace feels like.")](https://www.youtube.com/watch?v=LXBnRtMARkg)
 <!-- END YOUTUBE-CARDS -->
 
 # 📈 My GitHub stats
